@@ -1,0 +1,15 @@
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L07\bin\Debug\net6.0\Ej_L07.exe
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L07\bin\Debug\net6.0\Ej_L07.deps.json
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L07\bin\Debug\net6.0\Ej_L07.runtimeconfig.json
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L07\bin\Debug\net6.0\Ej_L07.dll
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L07\bin\Debug\net6.0\Ej_L07.pdb
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L07\obj\Debug\net6.0\Ej_L07.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L07\obj\Debug\net6.0\Ej_L07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L07\obj\Debug\net6.0\Ej_L07.AssemblyInfoInputs.cache
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L07\obj\Debug\net6.0\Ej_L07.AssemblyInfo.cs
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L07\obj\Debug\net6.0\Ej_L07.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L07\obj\Debug\net6.0\Ej_L07.dll
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L07\obj\Debug\net6.0\refint\Ej_L07.dll
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L07\obj\Debug\net6.0\Ej_L07.pdb
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L07\obj\Debug\net6.0\Ej_L07.genruntimeconfig.cache
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L07\obj\Debug\net6.0\ref\Ej_L07.dll

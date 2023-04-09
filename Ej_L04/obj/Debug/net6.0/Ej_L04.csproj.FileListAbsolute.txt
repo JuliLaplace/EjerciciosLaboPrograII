@@ -1,0 +1,15 @@
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L04\obj\Debug\net6.0\Ej_L04.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L04\obj\Debug\net6.0\Ej_L04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L04\obj\Debug\net6.0\Ej_L04.AssemblyInfoInputs.cache
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L04\obj\Debug\net6.0\Ej_L04.AssemblyInfo.cs
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L04\obj\Debug\net6.0\Ej_L04.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L04\bin\Debug\net6.0\Ej_L04.exe
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L04\bin\Debug\net6.0\Ej_L04.deps.json
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L04\bin\Debug\net6.0\Ej_L04.runtimeconfig.json
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L04\bin\Debug\net6.0\Ej_L04.dll
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L04\bin\Debug\net6.0\Ej_L04.pdb
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L04\obj\Debug\net6.0\Ej_L04.dll
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L04\obj\Debug\net6.0\refint\Ej_L04.dll
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L04\obj\Debug\net6.0\Ej_L04.pdb
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L04\obj\Debug\net6.0\Ej_L04.genruntimeconfig.cache
+C:\Users\Julieta\Desktop\Laplace.Julieta\Ej_L04\obj\Debug\net6.0\ref\Ej_L04.dll
